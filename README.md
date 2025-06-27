@@ -1,1 +1,1 @@
-# personal-journal-app
+# teaching-application-todo-app
